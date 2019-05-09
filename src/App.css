@@ -1,0 +1,99 @@
+* {
+  margin: 0px;
+  padding: 0px
+}
+.navbar{
+  text-align: right;
+  background-color: black;
+  height: 40px;
+}
+h1{
+  font-size: 35px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: black;
+}
+img{
+  width: 160px;
+  height: 70px;
+}
+body{
+  background-image: linear-gradient(to right, rgb(20, 173, 219) , skyblue);
+}
+.Tital {
+  text-align: center;
+  width: 700px;
+  margin: auto;
+  margin-top: 35px;
+  height: 150px;
+  background-color: lightpink;
+  margin-block-end:auto ;
+}
+p{
+  border: 2px sold black;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+.MuiCardContent-root-67 {
+  /* background-color:palevioletred !important ; */
+}
+.picture {
+  text-align: left;
+  width: 180px;
+  margin: 25px;
+  margin-top: 100px;
+  height: 300px;
+  
+}
+
+/* 
+ .TextField{
+  text-align:center;
+  width: 300px;
+  margin-top:100px;
+  margin: 40px;
+  border-color: black; */
+ 
+
+/* .img-box {
+  width: 100%;
+  margin: auto;
+}*/
+
+
+
+
+.text-box{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top:60px;
+  padding: 12px
+}
+
+.button-style {
+  height: 10px;
+  width: 10px;
+  /* margin-left: 100px; */
+}
+
+/* .heading{
+  background-color:blueviolet !important;
+} */
+
+.VerbType {
+  width: 400px;
+ /* height: 650px; */
+  background-color :lightgreen !important;
+}
+
+.MuiAppBar-colorPrimary-8 {
+  padding: 5px;
+}
+
+/* .tope{
+
+} */
